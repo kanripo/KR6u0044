@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:47.282491
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 大方廣佛華嚴經普賢菩薩行願王品
 #+PROPERTY: CBETA_ID T85n2908
 #+PROPERTY: ID KR6u0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2908
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0044_T_000-1454a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0044_T_001-1454a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2908¶
-
- 大方廣佛花嚴經普賢菩薩行¶
+No. 2908¶
+大方廣佛花嚴經普賢菩薩行¶
 願王品¶
 ¶
 
@@ -88,7 +87,7 @@ No.2908¶
 　普賢之行為圓滿¶
 　戒行無垢最清淨
 　願無瑕缺常奉持¶
-　天龍夜叉鳩槃荼
+　天龍夜又鳩槃荼
 　人及非人等諸類¶
 　隨其所有諸言音
 　我皆於彼為說法¶
@@ -262,7 +261,7 @@ No.2908¶
 　我於彼所授記已
 　獲得無量億神通¶
 　以智慧力遍十方
-　於諸眾生廣饒益
+　於諸眾生廣饒益」
 #+END_VERSE
-」¶
+¶
 大方廣佛花嚴經普賢菩薩行願王品
